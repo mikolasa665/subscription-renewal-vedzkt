@@ -1,8 +1,10 @@
 22/09/2026
 
-<!-- notify 1/2 · MWRcpiV4 -->
-## Notification 1/2
-Round: Round 1
-To: toes3640@aol.com, tweetycsa@aol.com
-At: 2026-09-22 14:55:31
-Id: MWRcpiV4
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: smallmike@live.com, sallyzou87@hotmail.com
+At: 2026-09-22 14:55:40
+Id: SepGRzkQ
